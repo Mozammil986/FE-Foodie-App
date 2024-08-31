@@ -26,3 +26,12 @@
 .text-danger {
   font-size: 0.875rem;
 }
+
+.login-link {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.login-link:hover {
+  text-decoration: underline;
+}
